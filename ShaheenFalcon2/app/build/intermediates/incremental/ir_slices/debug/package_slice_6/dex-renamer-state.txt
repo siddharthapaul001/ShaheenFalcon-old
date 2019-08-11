@@ -1,0 +1,4 @@
+#Thu Jul 11 09:26:23 IST 2019
+base.0=/home/sid/AndroidStudioProjects/ShaheenFalcon2/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex
